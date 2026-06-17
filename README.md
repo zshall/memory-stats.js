@@ -48,5 +48,5 @@ https://github.com/jurre/memory-stats-js-rails
 You can add this code to any page using the following bookmarklet:
 
 ```js
-javascript:(function(){var script=document.createElement('script');script.src='https://rawgit.com/paulirish/memory-stats.js/master/bookmarklet.js';document.head.appendChild(script);})()
+javascript:(function(){var script=document.createElement('script');script.src='https://rawcdn.githack.com/zshall/memory-stats.js/243f7359617a5a3fea88366d35c12b586ba9e4f0/bookmarklet.js';document.head.appendChild(script);})()
 ```
