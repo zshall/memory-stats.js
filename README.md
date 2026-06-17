@@ -1,5 +1,7 @@
 ## memory-stats.js
 
+Forked from the [original author's repo](https://github.com/paulirish/memory-stats.js) to update the bookmarklet URL to use a different GitHub CDN, otherwise unmodified.
+
 Like [stats.js](https://github.com/mrdoob/stats.js/) but for JS memory
 
 [@jeromeetienne](https://github.com/jeromeetienne/), inspired by mrdoob's stats.js code, wrote this as part of [tquery](https://github.com/jeromeetienne/tquery). I've now promoted it to a standalone repo and cleaned it all up.
